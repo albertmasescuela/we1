@@ -1433,6 +1433,10 @@ compare-versions@^3.2.1:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/compare-versions/-/compare-versions-3.4.0.tgz#e0747df5c9cb7f054d6d3dc3e1dbc444f9e92b26"
 
+compo-demo@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/compo-demo/-/compo-demo-0.1.1.tgz#a5a5a19fee3d2c8424abb537d033533879315b7b"
+
 component-bind@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/component-bind/-/component-bind-1.0.0.tgz#00c608ab7dcd93897c0009651b1d3a8e1e73bbd1"
@@ -3644,8 +3648,8 @@ lodash.tail@^4.1.1:
   resolved "https://registry.yarnpkg.com/lodash.tail/-/lodash.tail-4.1.1.tgz#d2333a36d9e7717c8ad2f7cacafec7c32b444664"
 
 lodash@^4.0.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.4, lodash@^4.17.5, lodash@~4.17.10:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 log4js@^4.0.0:
   version "4.1.0"
